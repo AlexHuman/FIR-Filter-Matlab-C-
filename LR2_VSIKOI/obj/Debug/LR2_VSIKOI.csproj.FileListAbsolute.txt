@@ -1,0 +1,9 @@
+c:\users\алексей\documents\visual studio 2015\Projects\LR2_VSIKOI\LR2_VSIKOI\bin\Debug\LR2_VSIKOI.exe.config
+c:\users\алексей\documents\visual studio 2015\Projects\LR2_VSIKOI\LR2_VSIKOI\bin\Debug\LR2_VSIKOI.exe
+c:\users\алексей\documents\visual studio 2015\Projects\LR2_VSIKOI\LR2_VSIKOI\bin\Debug\LR2_VSIKOI.pdb
+c:\users\алексей\documents\visual studio 2015\Projects\LR2_VSIKOI\LR2_VSIKOI\obj\Debug\LR2_VSIKOI.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2015\Projects\LR2_VSIKOI\LR2_VSIKOI\obj\Debug\LR2_VSIKOI.Form1.resources
+c:\users\алексей\documents\visual studio 2015\Projects\LR2_VSIKOI\LR2_VSIKOI\obj\Debug\LR2_VSIKOI.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2015\Projects\LR2_VSIKOI\LR2_VSIKOI\obj\Debug\LR2_VSIKOI.csproj.GenerateResource.Cache
+c:\users\алексей\documents\visual studio 2015\Projects\LR2_VSIKOI\LR2_VSIKOI\obj\Debug\LR2_VSIKOI.exe
+c:\users\алексей\documents\visual studio 2015\Projects\LR2_VSIKOI\LR2_VSIKOI\obj\Debug\LR2_VSIKOI.pdb
